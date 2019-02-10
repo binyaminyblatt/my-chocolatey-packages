@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>yacreader</id>
+    <version>9.5.0</version>
+    <owners>bblatt</owners>
+    <title>YACReader (Install)</title>
+    <authors>Luis Ángel San Martín</authors>
+    <projectUrl>https://www.yacreader.com</projectUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/38795239</iconUrl>
+    <copyright>© YACReader Website - 2016 All Rights Reserved | by Luis Ángel San Martín</copyright>
+    <licenseUrl>https://github.com/YACReader/yacreader/blob/master/COPYING.txt</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/YACReader/yacreader</projectSourceUrl>
+    <tags>comic ecomic yac YACReaderLibrary YACReader</tags>
+    <summary>YACReader's Desktop</summary>
+    <description>READ, BROWSE AND MANAGE YOUR COMICS COLLECTION
+all you need to enjoy your digital comics
+Browse your comics collections using beautiful, customizable and smooth comic</description>
+  </metadata>
+</package>
